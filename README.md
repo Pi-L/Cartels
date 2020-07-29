@@ -1,7 +1,7 @@
 # Cartels
 
 ## Description
-*This is the result of a Database modelization exercise I did while learning web development*<br>
+*This is the result of a Database modelization exercise I did while learning web development.*<br>
 *The goal was to produce a modelization of a physical problematic of our choice using [MySQL Workbench][2] with at least :*
 - 3 main tables
 - 5 "satellite" tables
